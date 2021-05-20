@@ -2,4 +2,4 @@
 
 Newsletter para utilizar en campañas de difusión internas en el Ministerio de educación e innovación del Gobierno de la Ciudad de Buenos Aires, realizado integramente con HTML y CSS3.
 
-[Captura de pantalla](https://i.ibb.co/GnGhRfS/newslettercaption.jpg)
+![screenshot](https://i.ibb.co/GnGhRfS/newslettercaption.jpg)
